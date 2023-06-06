@@ -38,12 +38,9 @@ body {
     border-radius: 4px;
   }
   
-  .sim {
-    color: #4CAF50;
-  }
-  
-  .diff {
-    color: #FF5722;
+  .takeaways{
+    color:black;
+    font-weight: bold;
   }
   
   .comparison-section {
