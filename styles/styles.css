@@ -70,5 +70,5 @@ tr:hover {
 #improve ul{
   display: inline-block; /* Make the list elements display inline */
       text-align: left; /* Align the list items to the left */
-    
+    list-style-type: none;
 }
